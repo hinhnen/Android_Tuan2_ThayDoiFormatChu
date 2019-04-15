@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ThayDoiFormatChu</string>
+    <color name="textcolor">#000</color>
+    <color name="backgroundtext">#ddd</color>
+    <color name="backgroundresult">#ff6</color>
+    <color name="textcolorresult">#e00</color>
+    <color name="background">#fff</color>
+    <color name="color">#000</color>
+</resources>
